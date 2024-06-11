@@ -2,6 +2,8 @@
 
 This is a simple password generator tool built in Python using the Tkinter library for creating a graphical user interface (GUI). It allows users to generate strong, randomized passwords based on their specified criteria.
 
+![Password Generator GUI](gui.PNG)
+
 ## Usage
 
 1. Run the application by executing the Python script (`password_generator.pyw`).
